@@ -9,7 +9,7 @@
     "node": "20.x"
   },
   "dependencies": {
-    "puppeteer-core": "22.0.0",
+    "puppeteer-core": "21.3.8",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
     "cheerio": "^1.0.0-rc.12",
